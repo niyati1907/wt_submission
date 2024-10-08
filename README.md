@@ -119,13 +119,13 @@ The application should now be running on `http://localhost:3000`.
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(52).png?raw=true" alt="Laptop Detail Page" style="width: 50%; max-width: 400px; margin: 10px;">
-    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(53).png?raw=true" alt="Laptop Delete Functionality" style="width: 50%; max-width: 400px; margin: 10px;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(52).png?raw=true" alt="Laptop Detail Page" style="width: 50%; max-width: 350px; margin: 10px;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(53).png?raw=true" alt="Laptop Delete Functionality" style="width: 50%; max-width: 350px; margin: 10px;">
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(54).png?raw=true" alt="Laptop Update Functionality" style="width: 50%; max-width: 400px; margin: 10px;">
-    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(55).png?raw=true" alt="Laptop Home Page" style="width: 50%; max-width: 400px; margin: 10px;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(54).png?raw=true" alt="Laptop Update Functionality" style="width: 50%; max-width: 350px; margin: 10px;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(55).png?raw=true" alt="Laptop Home Page" style="width: 50%; max-width: 350px; margin: 10px;">
 </div>
 ## Contributing
 
