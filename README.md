@@ -114,8 +114,11 @@ The application should now be running on `http://localhost:3000`.
 
 ## Screenshots
 
-![Laptop Home Page](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(51).png)
-
+![Laptop Home Page](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(51).png)  
+![Laptop Detail page](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(52).png)
+![Laptop Delete Funtionality](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(53).png)
+![Laptop Update Functionality](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(54).png)
+![Laptop Home Page](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(55).png)
 ## Contributing
 
 Feel free to submit issues or pull requests. Contributions are welcome!
