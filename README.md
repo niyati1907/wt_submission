@@ -114,6 +114,7 @@ The application should now be running on `http://localhost:3000`.
 
 ## Screenshots
 
+![Alt text]([URL_TO_YOUR_IMAGE](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(51).png))
 _Include relevant screenshots of the app for better understanding._
 
 ## Contributing
