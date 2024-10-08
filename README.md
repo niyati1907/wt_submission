@@ -114,11 +114,19 @@ The application should now be running on `http://localhost:3000`.
 
 ## Screenshots
 
-![Laptop Home Page](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(51).png)  
-![Laptop Detail page](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(52).png)
-![Laptop Delete Funtionality](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(53).png)
-![Laptop Update Functionality](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(54).png)
-![Laptop Home Page](https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(55).png)
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(51).png?raw=true" alt="Laptop Home Page" style="margin: 10px; width: 300px;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(52).png?raw=true" alt="Laptop Detail Page" style="margin: 10px; width: 200px;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(53).png?raw=true" alt="Laptop Delete Functionality" style="margin: 10px; width: 200px;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(54).png?raw=true" alt="Laptop Update Functionality" style="margin: 10px; width: 200px;">
+    <img src="https://github.com/niyati1907/wt_submission/blob/main/photos/Screenshot%20(55).png?raw=true" alt="Laptop Home Page" style="margin: 10px; width: 200px;">
+</div>
 ## Contributing
 
 Feel free to submit issues or pull requests. Contributions are welcome!
